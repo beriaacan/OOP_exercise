@@ -2,12 +2,7 @@
 
 ### 1. Giriş
 * Öngereksinimler
-* Eğitime Genel Bakış
-* Neden NYP Öğrenmeliyim?
 * Kullanılan Araçlar
-* Kaynaların Paylaşımı
-* Eğitim İçeriği 
-* Faydalı Kaynaklar
 
 ### 2. Programlama Paradigmaları
 * Prosedürel Programlama Paradigması
